@@ -1,0 +1,57 @@
+@media only screen and (max-width:480px) {
+    
+    .logo h3 {
+        font-size: 16px;
+    }
+
+    .top-header li {
+        margin-right: 16px;
+    }
+    
+    .top-header li a {
+        font-size: 12px;
+    }
+
+    .content-item {
+        flex-direction: column;
+    }
+
+    .content-text {
+        text-align: center;
+    }
+    .content-text h1 {
+        font-size: 18px;
+    } 
+    .content-text p {
+        font-size: 12px;
+    } 
+    .content-image .img {
+        width: 70%;
+        margin: 0 auto;
+      }
+      .header-bottom p {
+        width: 70%;
+        color: #df1f26;
+        font-size: 12px;
+    }  
+    
+    .gellary {
+        flex-direction: column;
+    }
+    .profile {
+        height: 125px;
+    }
+    .price {
+        margin: 0;
+    }
+    .price p {
+        padding-right: 55px;
+    }
+  
+    .product-name {
+        padding-right: 8px;
+    }
+    .product-name p {
+        font-size: 12px;
+    }
+}
